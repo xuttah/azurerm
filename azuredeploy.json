@@ -84,7 +84,7 @@
     "variables": {
         "keyVaultResourceGroup": "keyVaults",
         "derivedUri": "Add square brackets around: uri(deployment().properties.templateLink.uri, 'vm.json') ",
-        "vmUri": "https://raw.githubusercontent.com/richeney/arm/master/lab7/vm.json"
+        "vmUri": "https://github.com/xuttah/azurerm/blob/master/vm.json"
     },
     "resources": [
         {
